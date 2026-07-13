@@ -1,0 +1,2 @@
+The program Final_Grade_Predictor.py in this folder uses data from student-mat.csv, which has a list of students taking a math class with information like school, whether or not they partake in extracurricular activities, if they take extra paid classes on the subject, etc. The output of this program is the mean absolute loss of the validation data. 
+The program Grade_Statistics.py was used to anaylze the dataset and determine if there were any irregularities or outliers that needed to be dealt with.
